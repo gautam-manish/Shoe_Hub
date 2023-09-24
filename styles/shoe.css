@@ -1,0 +1,31 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.container{
+    padding: 20px;
+}
+
+.for-you {
+  padding: 30px;
+  padding-top: 0px;
+}
+
+.for-you-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.for-you-container img {
+  height: 100%;
+  width: 100%;
+  max-height: 400px;
+  max-width: 375px;
+}
