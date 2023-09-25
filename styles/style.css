@@ -653,7 +653,7 @@ footer {
 
 .testimonial h1{
   padding: 20px;
-  font-size: 30px;
+  font-size: 35px;
 }
 .image{
   display: flex;
@@ -674,14 +674,14 @@ footer {
   padding: 20px;
   background-color: #e7e7e7;
   color: black;
-  margin-left: 10px;
+  margin-left: 15px;
   border-radius: 20px;
 }
 .testimonial3{
   padding: 20px;
   background-color: #e7e7e7;
   color: black;
-  margin-left: 10px;
+  margin-left: 15px;
   margin-right: 10px;
   border-radius: 20px;
 }
